@@ -1,0 +1,15 @@
+.settings
+.project
+.classpath
+target
+.jar
+eclipse
+tmp
+modules
+.log
+tmlog.lck
+tmlog*.log
+precompiled
+bin
+gitTosvn/git
+gitTosvn/svn
